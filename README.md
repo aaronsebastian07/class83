@@ -1,2 +1,2 @@
-# class83
-This is my class 82 project (Book Santa)
+# book-santa-stage-6
+Stage - 6
